@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hafta3Odevleri</string>
+
+    <string name="urun1">Canon Camera</string>
+    <string name="urun2">Gıpta Defter</string>
+    <string name="urun3">Sony Kulaklik</string>
+    <string name="urun1Aciklama">13 mp siyah renk kamera</string>
+    <string name="urun2Aciklama">96 yaprak siyah renk defter</string>
+    <string name="urun3Aciklama">Kablosuz  siyah renk kulaklık</string>
+    <string name="urun1Fiyat">800 TL</string>
+    <string name="urun2Fiyat">60 TL</string>
+    <string name="urun3Fiyat">700 TL</string>
+
+</resources>
